@@ -1,2 +1,2 @@
 # Hyderabad_rent_predction
-asdfghjkl;'
+predicts the rent for top 15 cities in hyderabad
